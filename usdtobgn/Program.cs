@@ -31,7 +31,7 @@
             CurrencyConverter converter = new CurrencyConverter();
 
             Console.WriteLine("Currency Converter");
-
+            
             Console.Write("Enter number you want to convert:");
             double currency = double.Parse(Console.ReadLine());
 
@@ -75,7 +75,7 @@
                     toCurrencyIndex = 3;
                     break;
             }
-            Console.WriteLine($"From index: {fromCurrencyIndex}, To index: {toCurrencyIndex}");
+            Console.WriteLine($"From index: {fromCurrencyIndex}, To indfex: {toCurrencyIndex}");
 
 
             double convertedAmount = converter.ConvertCurrency(currency, fromCurrencyIndex, toCurrencyIndex);
