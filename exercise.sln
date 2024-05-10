@@ -35,13 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers from 0 to 100 as En
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transportation Price", "Transportation Price\Transportation Price.csproj", "{AA254F1C-6420-40A8-B3BC-4AD092123AA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes in Pool", "Pipes in Pool\Pipes in Pool.csproj", "{E85A5351-1F4B-4C1D-831F-916001D64ED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pipes in Pool", "Pipes in Pool\Pipes in Pool.csproj", "{E85A5351-1F4B-4C1D-831F-916001D64ED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sleepy Tom Cat", "Sleepy Tom Cat\Sleepy Tom Cat.csproj", "{D2B6C118-B858-4798-A127-37F2356F4129}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sleepy Tom Cat", "Sleepy Tom Cat\Sleepy Tom Cat.csproj", "{D2B6C118-B858-4798-A127-37F2356F4129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harvest", "Harvest\Harvest.csproj", "{51E3DA43-8649-49F9-AC67-1181E95F72CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harvest", "Harvest\Harvest.csproj", "{51E3DA43-8649-49F9-AC67-1181E95F72CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firm", "Firm\Firm.csproj", "{CE7BB863-B65B-42F2-9092-A995996ED9EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firm", "Firm\Firm.csproj", "{CE7BB863-B65B-42F2-9092-A995996ED9EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal Titles", "Personal Titles\Personal Titles.csproj", "{31314C83-41B8-4A45-9687-C9AFC3F4E08D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{CE7BB863-B65B-42F2-9092-A995996ED9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE7BB863-B65B-42F2-9092-A995996ED9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE7BB863-B65B-42F2-9092-A995996ED9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31314C83-41B8-4A45-9687-C9AFC3F4E08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31314C83-41B8-4A45-9687-C9AFC3F4E08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31314C83-41B8-4A45-9687-C9AFC3F4E08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31314C83-41B8-4A45-9687-C9AFC3F4E08D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
