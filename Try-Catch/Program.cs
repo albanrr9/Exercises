@@ -8,7 +8,7 @@
             {
                 Console.WriteLine("Enter even number: ");
                 int n = int.Parse(Console.ReadLine());
-                if(n %2 == 0)
+                if (n % 2 == 0)
                 {
                     Console.WriteLine("Even number entered: {0}", n);
                     break;
