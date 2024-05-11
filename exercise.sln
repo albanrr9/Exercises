@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try-Catch", "Try-Catch\Try-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods with parameters", "Methods with parameters\Methods with parameters.csproj", "{B83B2916-C524-4478-8E43-6B00D456B4E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods1", "methods1\methods1.csproj", "{B0B63A54-D7C4-49AC-9E6C-184CF787E812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodsWithReturn", "methodsWithReturn\methodsWithReturn.csproj", "{49A7AA34-B958-44C4-993D-5BE565575CCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{B83B2916-C524-4478-8E43-6B00D456B4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B83B2916-C524-4478-8E43-6B00D456B4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B83B2916-C524-4478-8E43-6B00D456B4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B63A54-D7C4-49AC-9E6C-184CF787E812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B63A54-D7C4-49AC-9E6C-184CF787E812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B63A54-D7C4-49AC-9E6C-184CF787E812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B63A54-D7C4-49AC-9E6C-184CF787E812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A7AA34-B958-44C4-993D-5BE565575CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A7AA34-B958-44C4-993D-5BE565575CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A7AA34-B958-44C4-993D-5BE565575CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A7AA34-B958-44C4-993D-5BE565575CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
