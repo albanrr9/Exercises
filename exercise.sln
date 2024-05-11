@@ -43,7 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harvest", "Harvest\Harvest.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firm", "Firm\Firm.csproj", "{CE7BB863-B65B-42F2-9092-A995996ED9EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal Titles", "Personal Titles\Personal Titles.csproj", "{31314C83-41B8-4A45-9687-C9AFC3F4E08D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal Titles", "Personal Titles\Personal Titles.csproj", "{31314C83-41B8-4A45-9687-C9AFC3F4E08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Number Checking", "Prime Number Checking\Prime Number Checking.csproj", "{05C8D4D1-63E0-4CCE-83E4-169E2CE8D9CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Loops and Break", "Nested Loops and Break\Nested Loops and Break.csproj", "{AC5371AE-169A-40A0-9EEA-2BAEE15D4805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try-Catch", "Try-Catch\Try-Catch.csproj", "{51356AC6-948F-47F1-8B16-8D3829C1EF58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{31314C83-41B8-4A45-9687-C9AFC3F4E08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31314C83-41B8-4A45-9687-C9AFC3F4E08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31314C83-41B8-4A45-9687-C9AFC3F4E08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C8D4D1-63E0-4CCE-83E4-169E2CE8D9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C8D4D1-63E0-4CCE-83E4-169E2CE8D9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C8D4D1-63E0-4CCE-83E4-169E2CE8D9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C8D4D1-63E0-4CCE-83E4-169E2CE8D9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5371AE-169A-40A0-9EEA-2BAEE15D4805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5371AE-169A-40A0-9EEA-2BAEE15D4805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5371AE-169A-40A0-9EEA-2BAEE15D4805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5371AE-169A-40A0-9EEA-2BAEE15D4805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51356AC6-948F-47F1-8B16-8D3829C1EF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51356AC6-948F-47F1-8B16-8D3829C1EF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51356AC6-948F-47F1-8B16-8D3829C1EF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51356AC6-948F-47F1-8B16-8D3829C1EF58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
