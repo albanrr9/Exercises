@@ -45,17 +45,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Firm", "Firm\Firm.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal Titles", "Personal Titles\Personal Titles.csproj", "{31314C83-41B8-4A45-9687-C9AFC3F4E08D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Number Checking", "Prime Number Checking\Prime Number Checking.csproj", "{05C8D4D1-63E0-4CCE-83E4-169E2CE8D9CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Number Checking", "Prime Number Checking\Prime Number Checking.csproj", "{05C8D4D1-63E0-4CCE-83E4-169E2CE8D9CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Loops and Break", "Nested Loops and Break\Nested Loops and Break.csproj", "{AC5371AE-169A-40A0-9EEA-2BAEE15D4805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Loops and Break", "Nested Loops and Break\Nested Loops and Break.csproj", "{AC5371AE-169A-40A0-9EEA-2BAEE15D4805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try-Catch", "Try-Catch\Try-Catch.csproj", "{51356AC6-948F-47F1-8B16-8D3829C1EF58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Try-Catch", "Try-Catch\Try-Catch.csproj", "{51356AC6-948F-47F1-8B16-8D3829C1EF58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods with parameters", "Methods with parameters\Methods with parameters.csproj", "{B83B2916-C524-4478-8E43-6B00D456B4E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods with parameters", "Methods with parameters\Methods with parameters.csproj", "{B83B2916-C524-4478-8E43-6B00D456B4E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods1", "methods1\methods1.csproj", "{B0B63A54-D7C4-49AC-9E6C-184CF787E812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods1", "methods1\methods1.csproj", "{B0B63A54-D7C4-49AC-9E6C-184CF787E812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodsWithReturn", "methodsWithReturn\methodsWithReturn.csproj", "{49A7AA34-B958-44C4-993D-5BE565575CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodsWithReturn", "methodsWithReturn\methodsWithReturn.csproj", "{49A7AA34-B958-44C4-993D-5BE565575CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Small Shop", "Small Shop\Small Shop.csproj", "{B87494B4-5686-4F8B-8CC5-046948AB01FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point in Rectangle", "Point in Rectangle\Point in Rectangle.csproj", "{04DBDD13-9D74-45DC-AD35-45AC419F3719}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +175,14 @@ Global
 		{49A7AA34-B958-44C4-993D-5BE565575CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49A7AA34-B958-44C4-993D-5BE565575CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49A7AA34-B958-44C4-993D-5BE565575CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87494B4-5686-4F8B-8CC5-046948AB01FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87494B4-5686-4F8B-8CC5-046948AB01FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87494B4-5686-4F8B-8CC5-046948AB01FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87494B4-5686-4F8B-8CC5-046948AB01FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DBDD13-9D74-45DC-AD35-45AC419F3719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DBDD13-9D74-45DC-AD35-45AC419F3719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DBDD13-9D74-45DC-AD35-45AC419F3719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DBDD13-9D74-45DC-AD35-45AC419F3719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
