@@ -65,19 +65,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruit or Vegetable", "Fruit or Vegetable\Fruit or Vegetable.csproj", "{11475AB6-55C8-40AC-B881-5C63A7412814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invalid Number", "Invalid Number\Invalid Number.csproj", "{8A8FF1A9-692F-494D-A8A4-0BE9F36EAB3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invalid Number", "Invalid Number\Invalid Number.csproj", "{8A8FF1A9-692F-494D-A8A4-0BE9F36EAB3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point on a Rectangle Border", "Point on a Rectangle Border\Point on a Rectangle Border.csproj", "{00705568-2A81-4B60-B0B5-DA412B9D0C1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Point on a Rectangle Border", "Point on a Rectangle Border\Point on a Rectangle Border.csproj", "{00705568-2A81-4B60-B0B5-DA412B9D0C1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fruit Shop", "Fruit Shop\Fruit Shop.csproj", "{D253BF9E-A555-4EEF-96E9-22DDD9830E9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fruit Shop", "Fruit Shop\Fruit Shop.csproj", "{D253BF9E-A555-4EEF-96E9-22DDD9830E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trade Fees", "Trade Fees\Trade Fees.csproj", "{6ADC908E-E85A-487E-B822-051414589032}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trade Fees", "Trade Fees\Trade Fees.csproj", "{6ADC908E-E85A-487E-B822-051414589032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day of the Week", "Day of the Week\Day of the Week.csproj", "{B324BDF6-1F58-482D-8B49-D26B9D299382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day of the Week", "Day of the Week\Day of the Week.csproj", "{B324BDF6-1F58-482D-8B49-D26B9D299382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal Type", "Animal Type\Animal Type.csproj", "{0BE952AA-FB8C-4852-8F73-E7817396E747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal Type", "Animal Type\Animal Type.csproj", "{0BE952AA-FB8C-4852-8F73-E7817396E747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{A08470FF-633A-4073-9CCE-A67D3B17CD64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csproj", "{A08470FF-633A-4073-9CCE-A67D3B17CD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brute-Force Password Cracker", "Brute-Force Password Cracker\Brute-Force Password Cracker.csproj", "{B96AED28-E679-42F5-BF7B-54A4E11F69C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{A08470FF-633A-4073-9CCE-A67D3B17CD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08470FF-633A-4073-9CCE-A67D3B17CD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08470FF-633A-4073-9CCE-A67D3B17CD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96AED28-E679-42F5-BF7B-54A4E11F69C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96AED28-E679-42F5-BF7B-54A4E11F69C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96AED28-E679-42F5-BF7B-54A4E11F69C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96AED28-E679-42F5-BF7B-54A4E11F69C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
