@@ -81,6 +81,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brute-Force Password Cracker", "Brute-Force Password Cracker\Brute-Force Password Cracker.csproj", "{B96AED28-E679-42F5-BF7B-54A4E11F69C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voleyball", "Voleyball\Voleyball.csproj", "{DA0AC3AE-91CD-4228-9987-7FE4F9180083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{B96AED28-E679-42F5-BF7B-54A4E11F69C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B96AED28-E679-42F5-BF7B-54A4E11F69C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B96AED28-E679-42F5-BF7B-54A4E11F69C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0AC3AE-91CD-4228-9987-7FE4F9180083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0AC3AE-91CD-4228-9987-7FE4F9180083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0AC3AE-91CD-4228-9987-7FE4F9180083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0AC3AE-91CD-4228-9987-7FE4F9180083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
