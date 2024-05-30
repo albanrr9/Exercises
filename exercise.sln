@@ -81,7 +81,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brute-Force Password Cracker", "Brute-Force Password Cracker\Brute-Force Password Cracker.csproj", "{B96AED28-E679-42F5-BF7B-54A4E11F69C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voleyball", "Voleyball\Voleyball.csproj", "{DA0AC3AE-91CD-4228-9987-7FE4F9180083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voleyball", "Voleyball\Voleyball.csproj", "{DA0AC3AE-91CD-4228-9987-7FE4F9180083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point in the Figure", "Point in the Figure\Point in the Figure.csproj", "{69668BB5-C6C9-4E5F-9D37-394379EBF7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point and Rectangle", "Point and Rectangle\Point and Rectangle.csproj", "{87DF7AFB-31C1-42DF-B048-418BA3B09FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "On Time for the Exam", "On Time for the Exam\On Time for the Exam.csproj", "{B5199523-AE1F-485F-9143-91023AAEF2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trip", "Trip\Trip.csproj", "{D51F7808-0A98-41F8-8C57-B0855B66271B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +257,22 @@ Global
 		{DA0AC3AE-91CD-4228-9987-7FE4F9180083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0AC3AE-91CD-4228-9987-7FE4F9180083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA0AC3AE-91CD-4228-9987-7FE4F9180083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69668BB5-C6C9-4E5F-9D37-394379EBF7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69668BB5-C6C9-4E5F-9D37-394379EBF7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69668BB5-C6C9-4E5F-9D37-394379EBF7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69668BB5-C6C9-4E5F-9D37-394379EBF7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DF7AFB-31C1-42DF-B048-418BA3B09FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DF7AFB-31C1-42DF-B048-418BA3B09FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DF7AFB-31C1-42DF-B048-418BA3B09FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DF7AFB-31C1-42DF-B048-418BA3B09FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5199523-AE1F-485F-9143-91023AAEF2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5199523-AE1F-485F-9143-91023AAEF2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5199523-AE1F-485F-9143-91023AAEF2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5199523-AE1F-485F-9143-91023AAEF2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51F7808-0A98-41F8-8C57-B0855B66271B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51F7808-0A98-41F8-8C57-B0855B66271B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51F7808-0A98-41F8-8C57-B0855B66271B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51F7808-0A98-41F8-8C57-B0855B66271B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
