@@ -280,7 +280,7 @@
     <value>Popup</value>
   </data>
   <data name="btnAddIncome.Location" type="System.Drawing.Point, System.Drawing">
-    <value>470, 52</value>
+    <value>477, 52</value>
   </data>
   <data name="btnAddIncome.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 23</value>
@@ -307,7 +307,7 @@
     <value>Popup</value>
   </data>
   <data name="btnAddExpense.Location" type="System.Drawing.Point, System.Drawing">
-    <value>470, 81</value>
+    <value>477, 81</value>
   </data>
   <data name="btnAddExpense.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 23</value>
@@ -334,7 +334,7 @@
     <value>Popup</value>
   </data>
   <data name="btnViewSummary.Location" type="System.Drawing.Point, System.Drawing">
-    <value>470, 110</value>
+    <value>477, 110</value>
   </data>
   <data name="btnViewSummary.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 23</value>
@@ -426,21 +426,104 @@
   <data name="date.Width" type="System.Int32, mscorlib">
     <value>75</value>
   </data>
-  <data name="button3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="label1.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>125, 25</value>
+  </data>
+  <data name="label1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 25</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Secure Finance Tracker</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAAGBJREFUeF7t
+        1DEKgDAQBMC81tfmHRIU36AGUgWxEE6umIGtd7niCgAAAAAAAAAAAAAAAC/Wti9/ZNTl07aj3jmDU0dd
+        Pn3cNDYiDjDq8unjprERyXuAp4cVkVEHAMB3pVxVpCYDKU9MwQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="button1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="button1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
-  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>538, 0</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 25</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAABGdBTUEAALGPC/xhBQAAAZ1JREFUeF7t
-        0VFqwzAQhGGfp/c/Sg8RWnyGFIMXmqDIWkm2d6T/A0EfHLozswAAAAAAAAAAAACAuHVdv/Y/ZSjenLQF
-        efyu30qBFG9OsiCPn/WpEkjx5qSXIPaCB1K8OSkZJHggxZuTskHsBQukeHNSURB7QQIp3pylFGi48o1C
-        sGHLN5EDDl++iRh0mvJNpMDTlW8iBJ+2fHNnAdOXb+4ogvLfXFkI5X9wRTGUf+DMgii/0BlFUb5Tz8Io
-        v1KP4ii/UUuBlN9JTZGU35m3UMo/gWuEkkf5ft1GoPx6zSNQfrvqESi/H/cIlN8XA9zIXb49RmhXXb49
-        RqjXXL49RvDrVr49RijnKn/7zvEtIxzwlr99X/Ob/d/hv5YiGaFRjwIZoVLP4hjB6YzCGKHQmUUxwoEr
-        CmKED64shhHe3FEII+zuLGL6ESIUMO0IkYJPN0LEwNOMEDno8CMoBBx2BKVgw42gGGjOEYIFUbw5Kxso
-        aBDFm7OSgYIHUbw56yWQSBDFm7MskFIQxZuzFIMMUz4AAAAAAAAAAACAeS3LHyhFmQSSeNu1AAAAAElF
-        TkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAATZJREFUeF7t
+        2WsKwjAQBOAexaN4U4/So/RntQ88ghKbQQht82iWdpf5IAgS3J1BimBDRERERERERFSq79+35zB37tW/
+        VZ377NcwPyRnFPHhP/6IlLDMmFrJGUWC8CIlBOFFZhRziwSLVV1wI7w/U+uvnWdZUKaE/fBz56+dT6IE
+        NeGhZgnqwkONEtSGhyMlqA8PJSWYCQ85JZgLDyklmA0PsRJMh4dICWvHTnjIKMFeeEgowW54J/LAcyfp
+        x5JKCeFx7JWQER7HTgmR8O55sPVM0F9CLPz/jsESUsKDuRJywoOZEkrCg/oSjoQHtSXUCA/qSqgZHtSU
+        IBEeVJTg/qtbWe63oL9yyH4J1/1jpEp42JrRj+PdXzlXsGDV8BDOuEx4WBaU/UpixuXCExEREREREZEi
+        TfMFSyFedVT+oRMAAAAASUVORK5CYII=
 </value>
+  </data>
+  <data name="button3.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="button3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="button3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="button3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -464,7 +547,7 @@
     <value>panel1</value>
   </data>
   <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>2</value>
   </data>
   <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Top</value>
