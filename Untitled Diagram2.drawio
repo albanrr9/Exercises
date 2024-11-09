@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="UbHn0h7tvynJohsgcLhx">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Scenario: Event Management System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="8" y="8" width="1600" height="2041" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Database Design" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
+          <mxGeometry x="43" y="402" width="731" height="1253" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Relationships" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="3">
+          <mxGeometry x="210" y="43" width="328" height="923" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Attendees attend Events" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="4">
+          <mxGeometry x="76" y="43" width="192" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Organizers manage Events" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="4">
+          <mxGeometry x="71" y="285" width="203" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Schedule for Events" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="4">
+          <mxGeometry x="94" y="538" width="156" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Venues host Events" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="4">
+          <mxGeometry x="96" y="744" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Entities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="3">
+          <mxGeometry x="58" y="1016" width="631" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Event" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="9">
+          <mxGeometry x="43" y="85" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Attendee" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="9">
+          <mxGeometry x="148" y="72" width="82" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Organizer" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="9">
+          <mxGeometry x="280" y="71" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Schedule" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="9">
+          <mxGeometry x="415" y="74" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Venue" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="9">
+          <mxGeometry x="545" y="84" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Scenario Overview" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
+          <mxGeometry x="824" y="46" width="749" height="1966" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Functionality" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="15">
+          <mxGeometry x="245" y="43" width="276" height="1393" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Create Event" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="92" y="43" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Update Event" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="90" y="201" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Delete Event" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="92" y="363" width="107" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="View Event" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="98" y="520" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Register Attendee" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="75" y="665" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Assign Organizer" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="79" y="858" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="Allocate Venue" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="84" y="1043" width="123" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="Generate Schedule" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="16">
+          <mxGeometry x="71" y="1215" width="151" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="System Components" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="15">
+          <mxGeometry x="58" y="1486" width="649" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Events" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="25">
+          <mxGeometry x="43" y="85" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Attendees" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="25">
+          <mxGeometry x="155" y="72" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Organizers" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="25">
+          <mxGeometry x="293" y="71" width="91" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Schedule" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="25">
+          <mxGeometry x="434" y="76" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Venue" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="25">
+          <mxGeometry x="563" y="86" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Objective: Design Event Management System" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="15">
+          <mxGeometry x="289" y="1752" width="187" height="187" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
